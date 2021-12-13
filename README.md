@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Marcus!
+### 👋 Olá, me chamo Marcus!
 
-. 📄 I make projects with HTML5 and CSS3
+. 📄 Faço projetos com HTML e CSS
 
-. 📘 Studying JavaScript
+. 📘 Studando Javascript
 
 <div>
   <a href="https://github.com/marcusvinicius0">
