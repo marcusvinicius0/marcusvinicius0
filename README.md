@@ -1,6 +1,6 @@
 ### 👋 Olá, me chamo Marcus!
 
-. 📄 Praticando HTML5 e CSS3
+. 📄 Praticando Responsividade
 
 . 📘 Estudando Javascript
 
