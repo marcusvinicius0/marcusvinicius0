@@ -1,7 +1,5 @@
 ### 👋 Olá, me chamo Marcus!
 
-. 📘 Estudando Javascript
-
 <div>
   <a href="https://github.com/marcusvinicius0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvinicius0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,7 +11,7 @@
    <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-  
+  . 📘 Estudando Javascript
 ##
   
 <div>
