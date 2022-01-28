@@ -1,6 +1,6 @@
 ### 👋 Olá, me chamo Marcus!
 
- . 📘 Estudando Javascript
+<a href="https://www.w3schools.com/whatis/whatis_js.asp">📘 Estudando Javascript</a>
 
 <div>
   <a href="https://github.com/marcusvinicius0">
