@@ -1,8 +1,6 @@
 ### 👋 Olá, me chamo Marcus!
 
-. 📄 Praticando Responsividade;
-
-. 📘 Estudando Javascript.
+. 📘 Estudando Javascript
 
 <div>
   <a href="https://github.com/marcusvinicius0">
