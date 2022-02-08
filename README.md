@@ -3,13 +3,13 @@
 Hey there, I'm Marcus! 👋
 
 💡 I've been a programmer for 3 months; <br>
-• I've learned: HTML5, CSS3, JavaScript, MediaQueries, Git/GitHub;
+      • I've learned: HTML5, CSS3, JavaScript, MediaQueries, Git/GitHub;
 
 📒 I'm currently deep studying and making projects using Javascript;
 
 🖥️ I take bootcamps about programming which teach us the most used techs nowadays like react.js, node.js, API'S;<br>
-  • DevClub<br>
-  • Udemy
+      • DevClub<br>
+      • Udemy
 
 Stack: 
 <div>
