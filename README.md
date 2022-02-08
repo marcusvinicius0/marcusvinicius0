@@ -3,7 +3,7 @@
 Hey there, I'm Marcus! 👋
 
 💡 I've been a programmer for 3 months; <br>
-      • I've learned: HTML5, CSS3, JavaScript, MediaQueries, Git/GitHub;
+      <p>• I've learned: HTML5, CSS3, JavaScript, MediaQueries, Git/GitHub;</p>
 
 📒 I'm currently deep studying and making projects using Javascript;
 
