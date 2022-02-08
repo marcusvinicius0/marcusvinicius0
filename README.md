@@ -1,6 +1,10 @@
-### 👋 Olá, me chamo Marcus!
+### 
+https://user-images.githubusercontent.com/95756030/153021698-11b94a1c-0d20-45ba-9aa1-a6b7e923578f.mp4
 
-📘 Fazendo projetos com <a href="https://www.w3schools.com/whatis/whatis_js.asp" target="_blank">Javascript</a>
+Hey there, I'm Marcus! 👋
+
+📒 Currently I'm studying and making projects using Javascript;
+
 
 <div>
   <a href="https://github.com/marcusvinicius0">
