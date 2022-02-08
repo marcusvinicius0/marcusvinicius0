@@ -1,9 +1,12 @@
-### 
-![31548-robot-says-hello](https://user-images.githubusercontent.com/95756030/153021893-2967974a-493e-48fd-8228-1daf6bf7ec89.gif)
+
 
 Hey there, I'm Marcus! 👋
 
-📒 Currently I'm studying and making projects using Javascript;
+📒 I'm currently studying and making projects using Javascript;
+
+
+
+
 
 
 <div>
