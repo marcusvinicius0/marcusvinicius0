@@ -7,7 +7,7 @@ Hey there, I'm Marcus! 👋
 
 📒 I'm currently deep studying and making projects using Javascript;
 
-🖥️ I take bootcamps about programming which teach us the most used techs nowadays like react.js, node.js, API'S;
+🖥️ I take bootcamps about programming which teach us the most used techs nowadays like react.js, node.js, API'S;<br>
   • DevClub
 
 Stack: 
@@ -16,11 +16,9 @@ Stack:
    <img align="center" alt="Marcus-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Marcus-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
-  
-
-
-
-
+<br>
+<br>
+<br>
 <div>
   <a href="https://github.com/marcusvinicius0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvinicius0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -29,7 +27,7 @@ Stack:
   
 
 ##
-  
+ 📞 Contact me:
 <div>
    <a href="https://www.linkedin.com/in/marcus-vinicius-santos-7664a0227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/marcusbegh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
