@@ -8,7 +8,7 @@ Hey there, I'm Marcus! 👋
 📒 I'm currently deep studying and making projects using Javascript;
 
 🖥️ I take bootcamps about programming which teach us the most used techs nowadays like react.js, node.js, API'S;<br>
-  • DevClub
+  • DevClub<br>
   • Udemy
 
 Stack: 
