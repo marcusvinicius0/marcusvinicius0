@@ -2,9 +2,21 @@
 
 Hey there, I'm Marcus! 👋
 
-📒 I'm currently studying and making projects using Javascript;
+💡 I've been a programmer for 3 months;
+• I've learned: HTML5, CSS3, JavaScript, MediaQueries, Git/GitHub;
 
+📒 I'm currently deep studying and making projects using Javascript;
 
+🖥️ I take bootcamps about programming which teach us the most used techs nowadays like react.js, node.js, API'S;
+  • DevClub
+
+Stack: 
+div>
+   <img align="center" alt="Marcus-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Marcus-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Marcus-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </div>
+  
 
 
 
@@ -15,12 +27,7 @@ Hey there, I'm Marcus! 👋
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvinicius0&layout=compact&langs_count=7&theme=dracula"/>
  </div>
   
-<div>
-   <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
-  
+<
 ##
   
 <div>
