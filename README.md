@@ -3,7 +3,7 @@
 Hey there, I'm Marcus! 👋
 
 👨‍💻 I've been a programmer for 3 months; <br>
-📖 • I've learned: HTML5, CSS3, JavaScript, MediaQueries, Git/GitHub;
+📖 • I've learned: HTML5, CSS3, JavaScript, MediaQueries, Git/GitHub; <br>
 ⏳ • On progress: react.js
 
 📒 I'm currently studying and making projects using JavaScript and React; (14/02/22)
