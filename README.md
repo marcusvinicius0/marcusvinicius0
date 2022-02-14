@@ -4,9 +4,9 @@ Hey there, I'm Marcus! 👋
 
 👨‍💻 I've been a programmer for 3 months; <br>
 📖 • I've learned: HTML5, CSS3, JavaScript, MediaQueries, Git/GitHub; <br>
-⏳ • On progress: react.js
+⏳ • On progress: react.js;
 
-📒 I'm currently studying and making projects using JavaScript and React; (14/02/22)
+📒 I'm currently studying and making projects using JavaScript and React; (11/02/22)
 
 🖥️ I take bootcamps about programming which teach us the most used techs nowadays like react.js, node.js, API'S;<br>
       • DevClub<br>
