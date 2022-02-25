@@ -1,16 +1,16 @@
 
 
-Hey there, I'm Marcus! 👋
+Olá, sou o Marcus! 👋
 
-👨‍💻 I've been a programmer for 3 months; <br>
-📖 • I've learned: HTML5, CSS3, JavaScript, MediaQueries, Git/GitHub; <br>
-⏳ • On progress: react.js;
+👨‍💻 estudando/aplicando há 3 meses; <br>
+📖 •Aprendi: JavaScript, Git, CSS, HTML; <br>
+⏳  •Estudando: react.js;
 
-📒 I'm currently studying and making projects using JavaScript and React; (11/02/22)
+📒 Atualmente estou fazendo projetos com react.js e javascript; (11/02/22)
 
-🖥️ I take bootcamps about programming which teach us the most used techs nowadays like react.js, node.js, API'S;<br>
+🖥️ Participo de um bootcamp de programação onde ensina as tecnologias mais usadas: react.js, node.js, API'S.;<br>
       • DevClub<br>
-      • Udemy
+      
 
 Stack: 
 <div>
