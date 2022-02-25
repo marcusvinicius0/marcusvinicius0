@@ -6,7 +6,7 @@ Olá, sou o Marcus! 👋
 📖 •Aprendi: JavaScript, Git, CSS, HTML; <br>
 ⏳  •Estudando: react.js;
 
-📒 Atualmente estou fazendo projetos com react.js e javascript; (11/02/22)
+📒 Atualmente estou fazendo projetos com react.js e javascript; (11/02/22) - atual
 
 🖥️ Participo de um bootcamp de programação onde ensina as tecnologias mais usadas: react.js, node.js, API'S;<br>
       • DevClub<br>
