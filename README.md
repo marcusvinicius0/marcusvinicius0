@@ -8,7 +8,7 @@ Olá, sou o Marcus! 👋
 
 📒 Atualmente estou fazendo projetos com react.js e javascript; (11/02/22)
 
-🖥️ Participo de um bootcamp de programação onde ensina as tecnologias mais usadas: react.js, node.js, API'S.;<br>
+🖥️ Participo de um bootcamp de programação onde ensina as tecnologias mais usadas: react.js, node.js, API'S;<br>
       • DevClub<br>
       
 
