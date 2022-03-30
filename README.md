@@ -3,7 +3,7 @@
 Olá, sou o Marcus! 👋
 
 👨‍💻 estudando/aplicando há 4 meses; <br>
-📖 Aprendi: React.js, JavaScript, Git, CSS, HTML; <br>
+📖 Tenho conhecimento em: Firebase, react.js, javascript, git, CSS, HTML; <br>
 
 📒 Estou fazendo projetos com react.js; (11/02/22) - atual
 
