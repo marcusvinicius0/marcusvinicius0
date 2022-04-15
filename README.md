@@ -6,6 +6,7 @@ Olá, sou o Marcus! 👋
 📖 Tenho conhecimento em: Firebase, react.js, javascript, git, CSS, HTML; <br>
 
 📒 Estou fazendo projetos com react.js; (11/02/22) - atual
+📒 Estudando next.js, typescript.
 
 🖥️ Participo de um bootcamp de programação onde ensina as tecnologias mais usadas no mercado atualmente: react.js, node.js, API'S.<br>
       • DevClub<br>
