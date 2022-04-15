@@ -1,6 +1,6 @@
 
 
-Olá, sou o Marcus! 👋
+<h1 align="center">Olá, eu sou o Marcus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 👨‍💻 estudando/aplicando há 05 meses; <br/>
 📖 Tenho conhecimento em: Firebase, react.js, javascript, git, CSS, HTML; <br/>
