@@ -11,7 +11,7 @@ Olá, sou o Marcus! 👋
 🖥️ Participo de um bootcamp de programação onde ensina as tecnologias mais usadas no mercado atualmente: react.js, node.js, API'S.<br>
       • DevClub<br>
       
-![github graph](https://activity-graph.herokuapp.com/graph?username=tanyagupta0201&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=marcusvinicius0&theme=react-dark)
 
 Stack: 
 <div>
