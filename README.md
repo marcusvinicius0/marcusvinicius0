@@ -8,6 +8,8 @@ Olá, sou o Marcus! 👋
 📒 Estou fazendo projetos com react.js; (11/02/22) - atual <br/>
 📒 Estudando next.js, typescript.
 
+ <img align="right" size={25} alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 🖥️ Participo de um bootcamp de programação onde ensina as tecnologias mais usadas no mercado atualmente: react.js, node.js, API'S.<br>
       • DevClub<br>
       
