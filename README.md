@@ -1,6 +1,6 @@
 
 
-<h1>Olá, sou o Marcus! 👋<h1/>
+Olá, sou o Marcus! 👋
 
 👨‍💻 <p>estudando/aplicando há 05 meses;</p> <br/>
 📖 <p>Tenho conhecimento em: Firebase, react.js, javascript, git, CSS, HTML;</p> <br/>
