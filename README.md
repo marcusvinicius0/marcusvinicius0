@@ -8,7 +8,7 @@ Olá, sou o Marcus! 👋
 📒 Estou fazendo projetos com react.js; (11/02/22) - atual <br/>
 📒 Estudando next.js, typescript.
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align='right' align="top" width="200"/>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align='right' top="5px" width="200"/>
 
 🖥️ Participo de um bootcamp de programação onde ensina as tecnologias mais usadas no mercado atualmente: react.js, node.js, API'S.<br>
       • DevClub<br>
