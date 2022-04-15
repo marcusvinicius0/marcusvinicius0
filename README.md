@@ -2,11 +2,11 @@
 
 Olá, sou o Marcus! 👋
 
-👨‍💻 <p>estudando/aplicando há 05 meses;</p> <br/>
-📖 <p>Tenho conhecimento em: Firebase, react.js, javascript, git, CSS, HTML;</p> <br/>
+👨‍💻 estudando/aplicando há 05 meses; <br/>
+📖 Tenho conhecimento em: Firebase, react.js, javascript, git, CSS, HTML; <br/>
 
-📒 <p>Estou fazendo projetos com react.js; (11/02/22) - atual</p> <br/>
-📒 <p>Estudando next.js, typescript.</p>
+📒 Estou fazendo projetos com react.js; (11/02/22) - atual<br/>
+📒 Estudando next.js, typescript.
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align='right' width="200"/>
 
