@@ -10,8 +10,8 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align='right' width="200"/>
 
-🖥️ <p>Participo de um bootcamp de programação onde ensina as tecnologias mais usadas no mercado atualmente: react.js, node.js, API'S.</p><br>
-    <p> • DevClub</p><br>
+🖥️ Participo de um bootcamp de programação chamado DevClub, onde passamos por uma formação full-stack, contendo mais de 53h de conteúdo. No front-end aprendemos HTML, CSS, JavaScript e React.js. Já no back-end passamos por Node.js, SQL e construção de API'S.  <br>
+     
       
 Stack: 
 <div>
