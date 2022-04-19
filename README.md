@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou o Marcus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 👨‍💻 Estudando/aplicando há 05 meses; <br/>
-📖 Tenho conhecimento em: Firebase, react.js, javascript, git, CSS, HTML; <br/>
+📖 Tenho conhecimento em: firebase, react.js, node.js, javascript, git, CSS, HTML; <br/>
 
 📒 Estou fazendo projetos com react.js; (11/02/22) - atual<br/>
 📒 Estudando: next.js e typescript.
