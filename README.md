@@ -13,7 +13,7 @@
 🖥️ Participo de um bootcamp de programação chamado DevClub, onde passamos por uma formação full-stack, contendo mais de 53h de conteúdo. No front-end aprendemos HTML, CSS, JavaScript e React.js. Já no back-end passamos por Node.js, SQL e construção de API'S.  <br>
      
       
-Stack: 
+<h2 width="25">Stack:</h2> 
 <div>
     <img align="center" alt="reactjs" max-width="100%" src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642">
    <img align="center" alt="nodejs" max-width="100%" src="https://camo.githubusercontent.com/dfc69d704694f22168bea3d84584663777fa5301dcad5bbcb5459b336da8d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465">
