@@ -6,7 +6,7 @@
 👨‍💻 Estudando/aplicando há 05 meses; <br/>
 📖 Tenho conhecimento em: firebase, react.js, node.js, javascript, git, CSS, HTML; <br/>
 
-📒 Estou fazendo projetos com react.js; (11/02/22) - atual<br/>
+📄 Estou fazendo projetos com react.js; (11/02/22) - atual<br/>
 📒 Estudando: next.js e typescript.
 
 
