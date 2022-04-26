@@ -7,7 +7,6 @@
 📖 Tenho conhecimento em: firebase, react.js, node.js, javascript, git, CSS, HTML; <br/>
 
 📄 Estou fazendo projetos com react.js; (11/02/22) - atual<br/>
-📒 Estudando: next.js e typescript.
 
 
 🖥️ Participo de um bootcamp de programação chamado DevClub, onde passamos por uma formação full-stack, contendo mais de 53h de conteúdo. No front-end aprendemos HTML, CSS, JavaScript e React.js. Já no back-end passamos por Node.js, SQL e construção de API'S.  <br>
