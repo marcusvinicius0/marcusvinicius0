@@ -6,7 +6,7 @@
 👨‍💻 Studying for 5 months; <br/>
 📖 I have experience in: firebase, react.js, node.js, javascript, git, CSS, HTML; <br/>
 
-📄 I am developing projects in react.js; (11/02/22) - atual<br/>
+📄 I am developing projects in react.js; (11/02/22) - current<br/>
 
 
 🖥️ I make part of a programming bootcamp called Devclub, where we pass through a full-stack formation, containing over 55 hours of contets. In front-end we learn HTML, CSS, Javascript and React.js. In back-end we learn Node.js, SQL and API's creation. <br>
