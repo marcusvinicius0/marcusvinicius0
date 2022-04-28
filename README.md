@@ -1,15 +1,15 @@
 
 
-<h1 align="center">Olá, eu sou o Marcus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey there, I am Marcus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align='right' width="200"/>
 
-👨‍💻 Estudando/aplicando há 05 meses; <br/>
-📖 Tenho conhecimento em: firebase, react.js, node.js, javascript, git, CSS, HTML; <br/>
+👨‍💻 Studying for 5 months; <br/>
+📖 I have experience in: firebase, react.js, node.js, javascript, git, CSS, HTML; <br/>
 
-📄 Estou fazendo projetos com react.js; (11/02/22) - atual<br/>
+📄 I am developing projects in react.js; (11/02/22) - atual<br/>
 
 
-🖥️ Participo de um bootcamp de programação chamado DevClub, onde passamos por uma formação full-stack, contendo mais de 53h de conteúdo. No front-end aprendemos HTML, CSS, JavaScript e React.js. Já no back-end passamos por Node.js, SQL e construção de API'S.  <br>
+🖥️ I make part of a programming bootcamp called Devclub, where we pass through a full-stack formation, containing over 55 hours of contets. In front-end we learn HTML, CSS, Javascript and React.js. In back-end we learn Node.js, SQL and API's creation. <br>
      
       
 <h2 width="25">Stack:</h2> 
