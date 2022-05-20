@@ -1,6 +1,7 @@
 
 
 <h1 align="center">Hey there, I am Marcus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align='right' width="170"/>
 
 👨‍💻 Studying for 6 months; <br/>
 📖 I have experience in: firebase, react.js, node.js, javascript, git, CSS, HTML; <br/>
@@ -9,8 +10,6 @@
 
 
 🖥️ I make part of a programming bootcamp called Devclub, where we pass through a full-stack formation, containing over 55 hours of contets. In front-end we learn HTML, CSS, Javascript and React.js. In back-end we learn Node.js, SQL and API's creation. <br>
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align='right' width="200"/>
      
       
 <h2 width="25">Stack:</h2> 
