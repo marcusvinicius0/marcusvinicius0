@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey there, I am Marcus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align='left' width="170"/>
+
 
 👨‍💻 Studying for 6 months; <br/>
 📖 I have experience in: firebase, react.js, node.js, javascript, git, CSS, HTML; <br/>
