@@ -3,7 +3,6 @@
 <h1 align="center">Hey there, I am Marcus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-👨‍💻 Studying for 6 months; <br/>
 📖 I have experience in: firebase, react.js, node.js, javascript, git, CSS, HTML; <br/>
 
 📄 I am developing projects in react.js; (11/02/22) - current<br/>
