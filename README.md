@@ -1,14 +1,14 @@
 
 
-<h1 align="center">Hey there, I am Marcus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Olá a todos, bem vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-📖 I have experience in: next.js, firebase, react.js, node.js, javascript, git, CSS, HTML; <br/>
+📖 Tenho experiência em: next.js, firebase, react.js, node.js, javascript, git, CSS, HTML; <br/>
 
-📄 I am developing projects in react.js; (11/02/22) - current<br/>
+📄 Estou desenvolvendo projetos com react.js; (11/02/22) - current<br/>
 
 
-🖥️ I make part of a programming bootcamp called Devclub, where we pass through a full-stack formation, containing over 55 hours of contets. In front-end we learn HTML, CSS, Javascript and React.js. In back-end we learn Node.js, SQL and API's creation. <br>
+🖥️ Faço parte de um bootcamp de programação chamado DevClub, onde passamos por uma formação fullstack, contendo mais de 55h de conteúdo. No front-end aprendemos HTML, CSS, Javascript e React. No back-end passamos por Node.js, banco de dados postgres e mongoDB, requisições, além de criação de API'S. <br> 
      
       
 <h2 width="25">Stack:</h2> 
