@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Olá a todos, bem vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Olá, bem vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 📖 Tenho experiência em: next.js, firebase, react.js, node.js, javascript, git, CSS, HTML; <br/>
