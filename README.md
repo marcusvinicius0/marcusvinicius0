@@ -5,7 +5,7 @@
 
 📖 Tenho experiência em: next.js, firebase, react.js, node.js, javascript, git, CSS, HTML; <br/>
 
-📄 Estou desenvolvendo projetos com react.js; (11/02/22) - current<br/>
+📄 Estou desenvolvendo projetos com react.js; (11/02/22) - atual<br/>
 
 
 🖥️ Faço parte de um bootcamp de programação chamado DevClub, onde passamos por uma formação fullstack, contendo mais de 55h de conteúdo. No front-end aprendemos HTML, CSS, Javascript e React. No back-end passamos por Node.js, banco de dados postgres e mongoDB, requisições, além de criação de API'S. <br> 
