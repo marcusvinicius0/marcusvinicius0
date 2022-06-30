@@ -3,12 +3,13 @@
 <h1 align="center">Olá, bem vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-📖 Tenho experiência em: next.js, firebase, react.js, node.js, javascript, git, CSS, HTML; <br/>
+📖 Tenho conhecimentos em: NextJS, ReactJS, JavaScript, NodeJS, API REST, Git/Github, HTML, CSS, Sass, Firebase, gerenciadores de pacotes NPM/Yarn. <br/>
 
 📄 Estou desenvolvendo projetos com react.js; (11/02/22) - atual<br/>
 
 
-🖥️ Faço parte de um bootcamp de programação chamado DevClub, onde passamos por uma formação fullstack, contendo mais de 55h de conteúdo. No front-end aprendemos HTML, CSS, Javascript e React. No back-end passamos por Node.js, banco de dados postgres e mongoDB, requisições, além de criação de API'S. <br> 
+🖥️ Sou staff de uma comunidade no discord com +600 membros chamada: "It's Time to Code !", onde compartilhamos conhecimento sobre as diferentes áreas da programação, tiramos dúvidas, temos dias marcados para conversações em inglês, realizamos networking e aprendemos juntos.
+<br> 
      
       
 <h2 width="25">Stack:</h2> 
