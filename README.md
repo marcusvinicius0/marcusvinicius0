@@ -5,9 +5,6 @@
 
 📖 Tenho conhecimentos em: NextJS, ReactJS, JavaScript, NodeJS, API REST, Git/Github, HTML, CSS, Sass, Firebase, gerenciadores de pacotes NPM/Yarn. <br/>
 
-📄 Estou desenvolvendo projetos com react.js; (11/02/22) - atual<br/>
-
-
 🖥️ Sou staff de uma comunidade no discord com +600 membros chamada: "It's Time to Code !", onde compartilhamos conhecimento sobre as diferentes áreas da programação, tiramos dúvidas, temos dias marcados para conversações em inglês, realizamos networking e aprendemos juntos.
 <br> 
      
