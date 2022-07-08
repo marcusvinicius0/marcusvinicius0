@@ -2,11 +2,15 @@
 
 <h1 align="center">Olá, bem vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+👇 +07 meses de experiência na área de desenvolvimento. Sou fascinado pela tecnologia e o que ela pode e proporciona pra nossa sociedade em todos os aspectos. Gosto de desenvolver soluções que aprimoram minha lógica e compreensão do projeto como um todo, desde suas configurações até sua implementação.
 
-📖 Tenho conhecimentos em: NextJS, ReactJS, JavaScript, NodeJS, API REST, Git/Github, HTML, CSS, Sass, Firebase, gerenciadores de pacotes NPM/Yarn. <br/>
+Tenho conhecimentos em: NextJS, ReactJS, JavaScript, NodeJS, API REST, Git/Github, HTML, CSS, Sass, Firebase, gerenciadores de pacotes NPM/Yarn.
 
-🖥️ Sou staff de uma comunidade no discord com +600 membros chamada: "It's Time to Code !", onde compartilhamos conhecimento sobre as diferentes áreas da programação, tiramos dúvidas, temos dias marcados para conversações em inglês, realizamos networking e aprendemos juntos.
-<br> 
+Sou staff de uma comunidade no discord com +600 membros chamada: "It's Time to Code !", onde compartilhamos conhecimento sobre as diferentes áreas da programação, tiramos dúvidas, temos dias marcados para conversações em inglês, realizamos networking e aprendemos juntos.
+
+Meu nível de inglês é avançado.
+
+Meus projetos podem ser encontrados na área de destaques. 💻
      
       
 <h2 width="25">Stack:</h2> 
