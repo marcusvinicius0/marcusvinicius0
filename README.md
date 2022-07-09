@@ -9,9 +9,6 @@ Tenho conhecimentos em: NextJS, ReactJS, JavaScript, NodeJS, API REST, Git/Githu
 Sou staff de uma comunidade no discord com +600 membros chamada: "It's Time to Code !", onde compartilhamos conhecimento sobre as diferentes áreas da programação, tiramos dúvidas, temos dias marcados para conversações em inglês, realizamos networking e aprendemos juntos.
 
 Meu nível de inglês é avançado.
-
-Meus projetos podem ser encontrados na área de destaques. 💻
-     
       
 <h2 width="25">Stack:</h2> 
 <div>
