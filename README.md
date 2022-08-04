@@ -6,7 +6,7 @@
 
 Sou staff de uma comunidade no discord com +600 membros chamada: "It's Time to Code !", onde compartilhamos conhecimento sobre as diferentes áreas da programação, tiramos dúvidas, realizamos networking e aprendemos juntos.
 
-Tenho conhecimentos em: NextJS, TypeScript, ReactJS, JavaScript, NodeJS, API REST, Git/Github, HTML, CSS, Sass, Styled Components, Firebase, gerenciadores de pacotes NPM/Yarn.
+Tenho conhecimentos em: NextJS, Typescript, ReactJS, Javascript, NodeJS, API REST, Git/Github, HTML, CSS, Sass, Styled Components, Firebase, gerenciadores de pacotes NPM/Yarn.
 
 Meu nível de inglês é Avançado.
 
