@@ -2,14 +2,14 @@
 
 <h1 align="center">Olá, bem vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-👇 +08 meses de experiência na área de desenvolvimento. Sou fascinado pela tecnologia e o que ela pode e proporciona pra nossa sociedade em todos os aspectos. Gosto de desenvolver soluções que aprimoram minha lógica e compreensão do projeto como um todo, desde suas configurações até sua implementação.
+👇 +08 meses de experiência na área de desenvolvimento. Sou fascinado pelo impacto que a tecnologia causa sobre nossa sociedade em todos os âmbitos. Amo desenvolver aplicações que me desafiam a estar sempre buscando novas soluções, pensando fora da caixa e agregando mais valor ainda para a experiência final do usuário. 
 
-Tenho conhecimentos em: NextJS, ReactJS, JavaScript, NodeJS, API REST, Git/Github, HTML, CSS, Sass, Firebase, gerenciadores de pacotes NPM/Yarn.
+Sou staff de uma comunidade no discord com +600 membros chamada: "It's Time to Code !", onde compartilhamos conhecimento sobre as diferentes áreas da programação, tiramos dúvidas, realizamos networking e aprendemos juntos.
 
-Sou staff de uma comunidade no discord com +600 membros chamada: "It's Time to Code !", onde compartilhamos conhecimento sobre as diferentes áreas da programação, tiramos dúvidas, temos dias marcados para conversações em inglês, realizamos networking e aprendemos juntos.
+Tenho conhecimentos em: NextJS, TypeScript, ReactJS, JavaScript, NodeJS, API REST, Git/Github, HTML, CSS, Sass, Styled Components, Firebase, gerenciadores de pacotes NPM/Yarn.
 
-Meu nível de inglês é avançado.
-      
+Meu nível de inglês é Avançado.
+
 <h2 width="25">Stack:</h2> 
 <div>
     <img align="center" alt="reactjs" max-width="100%" src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642">
