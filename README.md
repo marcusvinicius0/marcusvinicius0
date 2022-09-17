@@ -8,7 +8,7 @@ I'm staff of a discord community with over 600 members called: "It's Time to Cod
 we share knowledge about the different areas of programming, we answer questions, we 
 network and learn together.
 
-I have knowledge in: NextJS, Typescript, ReactJS, Javascript, NodeJS, API REST, Git/Github, HTML, CSS, Sass, Styled Components, Firebase, NPM/Yarn package managers.
+I have experience with: NextJS, Typescript, ReactJS, Javascript, NodeJS, API REST, Git/Github, HTML, CSS, Sass, Styled Components, Firebase, NPM/Yarn package managers.
 
 My english level is advanced.
 
