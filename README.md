@@ -38,7 +38,4 @@ My english level is advanced.
    <a href="https://wa.me/5534988685919" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </div>
       
-<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=marcusvinicius0&theme=react-dark) -->
-    ![](./profile-3d-contrib/profile-night-green.svg)
-    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antilt-dev&label=Profile%20views&color=0e75b6&style=flat" alt="marcuvinicius0" /> </p>
