@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey there, Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
- Over 11 months of experience in the development area. I am fascinated by the impact that technology has on our society in all areas. I love developing applications that challenge me to always be looking for new solutions, thinking outside the box and adding even more value to the end user experience.
+ I am fascinated by the impact that technology has on our society in all areas. I love developing web applications that challenge me to always be looking for new solutions, thinking outside the box and adding even more value to the end user experience. I have experience developing complete systems for different niches such as blogs/social network, restaurant system and leads indication system.
 
 I'm staff of a discord community with over 600 members called: "It's Time to Code", where
 we share knowledge about the different areas of programming, we answer questions, we 
