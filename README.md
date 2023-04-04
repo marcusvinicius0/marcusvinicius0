@@ -1,13 +1,11 @@
 
 
 <h1 align="center">Hey there, Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
- I am fascinated by the impact that technology has on our society in all areas. I love developing web applications that challenge me to always be looking for new solutions, thinking outside the box and adding even more value to the end user experience. I have experience developing complete systems for different niches such as blogs/social network, restaurant system and leads indication system.
+Passionate about technology, problem solving and software architecture enthusiast. Proficient in designing and developing solutions and layouts for web development. Experience in developing complete systems for different niches, such as blogs/social network, restaurants system and lead indication. 
 
-I'm staff of a discord community with over 600 members called: "It's Time to Code", where
-we share knowledge about the different areas of programming, we answer questions, we 
-network and learn together.
+I make part of a community with over 700 members called: "It's Time to Code!", where we share knowledge about the different areas of programming, we help each other, network and learn together.
 
-I have experience with: NextJS, Typescript, ReactJS, Javascript, NodeJS, API REST, Git/Github, HTML, CSS, Sass, Styled Components, Firebase, NPM/Yarn package managers.
+I have experience with: NextJS, Typescript, ReactJS, ReactAuth, Javascript, API REST, NodeJS, MongoDB, Docker, Firebase, Git/GitHub, Git Flow, HTML, CSS, SASS, Styled Components, Material UI, Bootstrap, Tailwind, Kanban, Firebase, NPM/Yarn package management. In addition to experience with agile methodologies such as Scrum and Kanban.
 
 My english level is advanced.
 
