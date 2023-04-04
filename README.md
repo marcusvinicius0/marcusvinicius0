@@ -3,6 +3,8 @@
 <h1 align="center">Hey there, Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 Passionate about technology, problem solving and software architecture enthusiast. Proficient in designing and developing solutions and layouts for web development. Experience in developing complete systems for different niches, such as blogs/social network, restaurants system and lead indication.  
 <br>
+<br>
+<br>
 I make part of a community with over 700 members called: "It's Time to Code!", where we share knowledge about the different areas of programming, we help each other, network and learn together.
 
 I have experience with: NextJS, Typescript, ReactJS, ReactAuth, Javascript, API REST, NodeJS, MongoDB, Docker, Firebase, Git/GitHub, Git Flow, HTML, CSS, SASS, Styled Components, Material UI, Bootstrap, Tailwind, Kanban, Firebase, NPM/Yarn package management. In addition to experience with agile methodologies such as Scrum and Kanban.
