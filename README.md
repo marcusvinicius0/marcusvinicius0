@@ -8,7 +8,8 @@ I make part of a community with over 700 members called: "It's Time to Code!", w
 <br>
 <br>
 I have experience with: NextJS, Typescript, ReactJS, ReactAuth, Javascript, API REST, NodeJS, MongoDB, Docker, Firebase, Git/GitHub, Git Flow, HTML, CSS, SASS, Styled Components, Material UI, Bootstrap, Tailwind, Kanban, Firebase, NPM/Yarn package management. In addition to experience with agile methodologies such as Scrum and Kanban.
-
+<br>
+<br>
 My english level is advanced.
 
 <h2 width="25">Stack:</h2> 
