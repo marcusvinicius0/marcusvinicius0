@@ -13,7 +13,7 @@ In addition to experience with agile methodologies such as Scrum.
 <br>
 I had the opportunity to work at <a href="https://rodolfomori.com.br/devclub/" rel="noopener noreferrer" target="_blank">DevClub</a> as a English Teacher where I taught for over 20 people on livestream, sharing my knowledge accumulated over these years with this magnific language, and of course at the same time learning a lot.
 
-<h2 width="25">Stack:</h2> 
+<h2>Stack:</h2> 
 <div>
     <img align="center" alt="reactjs" max-width="100%" src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642">
     <img align="center" alt="javascript" max-width="100%" src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b">
