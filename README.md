@@ -26,11 +26,11 @@ I had the opportunity to work at <a href="https://rodolfomori.com.br/devclub/" r
 <br>
 <br>
 <br>
-<!-- <div>
+<div>
   <a href="https://github.com/marcusvinicius0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvinicius0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvinicius0&layout=compact&langs_count=7&theme=dracula"/>
- </div> -->
+ </div>
 <br>  
 <br>
 
