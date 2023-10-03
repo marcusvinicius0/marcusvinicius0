@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey there, Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-Passionate about technology, problem solving and a software architecture enthusiast. Proficient in designing and developing solutions and layouts for web development. Experience in developing complete systems for different niches, such as blog, social network, restaurants and lead indication systems.
+Hello, my name is Marcus Vinícius, I have been in several projects as a fullstack developer, with a greater coverage of knowledge on client side. I've already worked in projects of varied niches, like restaurants, lead indication, social network, blog, metaverso...
 <br>
 <br>
 I make part of a community with over 700 members called: "It's Time to Code!", where we share knowledge about the different areas of programming, we help each other, network and learn together.
@@ -26,11 +26,11 @@ I had the opportunity to work at <a href="https://rodolfomori.com.br/devclub/" r
 <br>
 <br>
 <br>
-<!-- <div>
+<div>
   <a href="https://github.com/marcusvinicius0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvinicius0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvinicius0&layout=compact&langs_count=7&theme=dracula"/>
- </div> -->
+ </div>
 <br>  
 <br>
 
