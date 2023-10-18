@@ -12,7 +12,7 @@ Hello, my name is Marcus Vinícius, I have been in several projects as a fullsta
 <br>
 - docker
 
-img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
