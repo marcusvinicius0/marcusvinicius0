@@ -12,11 +12,6 @@ Hello, my name is Marcus Vinícius, I have been in several projects as a fullsta
 <br>
 - docker
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -25,3 +20,6 @@ Hello, my name is Marcus Vinícius, I have been in several projects as a fullsta
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcusvinicius0&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
