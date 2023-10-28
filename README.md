@@ -11,6 +11,8 @@ Hello, my name is Marcus Vinícius, I have been in several projects as a fullsta
 - clean code
 <br>
 - docker
+<br>
+- advanced javascript
 
 ### ⚙️ &nbsp;GitHub Analytics
 
