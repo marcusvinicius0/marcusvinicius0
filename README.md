@@ -4,8 +4,6 @@ Hello, my name is Marcus Vinícius, I have been in several projects as a fullsta
 <h3>📚 Currently studying:</h3>
 - sql database
 <br>
-- golang
-<br>
 - nextjs v.13
 <br>
 - clean code
