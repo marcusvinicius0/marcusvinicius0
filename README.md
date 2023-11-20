@@ -1,6 +1,8 @@
 Hello, my name is Marcus Vinícius, I have been in several projects as a fullstack developer, with a greater coverage of knowledge on client side. I've already worked in projects of varied niches, like restaurants, lead indication, social network, blog, metaverso, vacancy system...
 <br>
 
+💡 In my free time, I like to keep up to date with the market, studying new stuff, working on personal projects, having new ideas... 
+
 <h3>📚 Currently I'm studying:</h3>
 - sql database
 <br>
