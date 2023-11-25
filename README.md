@@ -3,17 +3,6 @@ Hey there, my name is Marcus Vinicius, I have been in several projects as a full
 
 💡 In my free time, I like to keep up to date with the market, studying new stuff, working on personal projects, having new ideas... 
 
-<h3>📚 Currently I'm studying:</h3>
-- sql database
-<br>
-- nextjs v.13
-<br>
-- clean code
-<br>
-- docker
-<br>
-- advanced javascript
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
