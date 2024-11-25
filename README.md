@@ -1,5 +1,3 @@
-### ⚙️ GitHub Analytics
-
 <table>
   <tr>
     <td>
